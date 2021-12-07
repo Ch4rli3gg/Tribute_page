@@ -1,0 +1,77 @@
+body{
+  background-image: url(imagenes/collagelibros.jpg);
+  background-attachment: fixed;
+  font-size: 20px;
+}
+
+#main{
+  background-color: white;
+  max-width: 60%;
+  height: auto;
+  margin: 0 auto;
+  opacity: 0.95;
+}
+
+
+
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 50px;
+  }
+
+#title{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  background: silver;
+  padding: 50px;
+  font-size: 40px;
+}
+
+#img-caption{
+  text-align: center;
+  padding-bottom: 50px;
+  font-size: 16px;
+}
+
+#tribute-info{
+  max-width: 100%;
+  background: white;
+  margin: 0 auto;
+  padding: 50px;
+
+}
+
+p{
+  padding: 20px;
+  max-width: 80%;
+  margin: auto;
+}
+
+ul{
+  max-width: 80%;
+  background-color: white;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+li{
+  margin-top: 10px;
+}
+
+h2{
+  text-align: center;
+
+  }
+p{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  max-width: 80%;
+  margin: 0 auto;
+  padding-top: 40px;
+}

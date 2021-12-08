@@ -2,6 +2,7 @@ body{
   background-image: url(imagenes/collagelibros.jpg);
   background-attachment: fixed;
   font-size: 20px;
+  font-family: 'Baloo Bhaijaan 2',cursive,sans-serif;
 }
 
 #main{
@@ -9,7 +10,7 @@ body{
   max-width: 60%;
   height: auto;
   margin: 0 auto;
-  opacity: 0.95;
+
 }
 
 
@@ -26,7 +27,8 @@ body{
   text-align: center;
   margin-top: 100px;
   margin-bottom: 50px;
-  background: silver;
+  background: black;
+  color: #E7A126;
   padding: 50px;
   font-size: 40px;
 }

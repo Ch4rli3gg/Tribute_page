@@ -7,13 +7,18 @@ body{
 
 #main{
   background-color: white;
-  max-width: 60%;
+  max-width: 80%;
   height: auto;
   margin: 0 auto;
 
 }
 
-
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+    
+  }
+}
 
 #image{
   max-width: 100%;
